@@ -1,11 +1,14 @@
-Assignment: Python List Operations
-Overview
+## Assignment: Python List Operations
+
+## Overview
+
 This assignment involves performing various operations on a Python list, including appending elements, inserting an element at a specific position, extending the list with another list, removing an element, sorting the list, and finding the index of a specific value. The goal is to demonstrate proficiency in basic list manipulation techniques in Python.
 
-Instructions
+## Instructions
+
 The following steps were taken to complete the assignment:
 
-Create an empty list called my_list.
+## Create an empty list called my_list.
 
 Initialized an empty list using my_list = [].
 Append the following elements to my_list: 10, 20, 30, 40.
